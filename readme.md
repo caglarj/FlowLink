@@ -1,6 +1,8 @@
 # FlowLink
 
-https://example.com/example/ kullanımında olan bir web sitesinde aşağıdaki örnekte yapılandırılmış bir class yapısına ve a tagine ait url'nin güncellenip güncellenmediğini kontrol eden bir eğitim script çalışmasıdır.  
+https://example.com/example/ kullanımında olan bir web sitesinde aşağıdaki örnekte yapılandırılmış bir class yapısına ve a tagine ait url'nin güncellenip güncellenmediğini kontrol eden bir eğitim script çalışmasıdır.
+
+gerekli düzenlemeler yapıldıktan sonra, windows görev zamanlayıcı ile kullanılabilir. 
 
 
 
